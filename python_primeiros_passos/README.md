@@ -1,4 +1,4 @@
-Python para Dados: primeiros passos
+#Python para Dados: primeiros passos
 
 Nesta pasta de repositório, "python_primeiros_passos", estão contidas as minhas resoluções nos desafios e momentos de projetos do curso Python para Dados: primeiros passos, onde tive como foco o aprendizado dos seguintes pontos:
 
@@ -9,6 +9,8 @@ Nesta pasta de repositório, "python_primeiros_passos", estão contidas as minha
 - Construção de diferentes estruturas de repetição
 - Trabalho com estruturas de dados
 - Relacionamento de estruturas de linguagem de programação à construção de projetos
+
+##Organização dos arquivos:
 
 1. primeiros_passos: Introdução ao Python, Hello World!
 2. manipulando_dados: Tipos de Variáveis, Variáveis numéricas, Strings, Coletando dados
