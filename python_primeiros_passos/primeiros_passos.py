@@ -1,4 +1,5 @@
 #Com a prática dos exercícios a seguir obtive os seguintes conhecimentos:
+
 #- Aplicar a função print para imprimir resultados na tela.
 
 #1. Imprima a frase Escola de Dados da Alura!.
@@ -25,5 +26,6 @@ L''')
 print(22, 'Setembro', 2006)
 
 #5 Imprima, em um único print, o atual ano que você está fazendo esse curso. O valor do ano deve ser um dado numérico.
+
 
 print(2026)
